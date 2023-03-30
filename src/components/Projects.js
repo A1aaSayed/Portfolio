@@ -75,9 +75,6 @@ export const Projects = () => {
                   </Row>
                 </Tab.Pane>
                 <Tab.Pane eventKey="second">
-                  <p>
-                    My name is Alaa. I'm living in Cairo. This is 5th Proj in react Dev...
-                  </p>
                 </Tab.Pane>
                 <Tab.Pane eventKey="third">
                   <p>
